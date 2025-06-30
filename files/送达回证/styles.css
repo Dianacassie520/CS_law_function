@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-48px;
-  width:540px;
+  width:575px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u2938_img {
+#u2943_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:375px;
   height:707px;
 }
-#u2938 {
+#u2943 {
   border-width:0px;
   position:absolute;
   left:48px;
@@ -33,20 +33,20 @@
   height:707px;
   display:flex;
 }
-#u2938 .text {
+#u2943 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u2938_text {
+#u2943_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u2939_div {
+#u2944_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -65,7 +65,7 @@
   font-style:normal;
   color:#2574D6;
 }
-#u2939 {
+#u2944 {
   border-width:0px;
   position:absolute;
   left:339px;
@@ -78,24 +78,24 @@
   font-style:normal;
   color:#2574D6;
 }
-#u2939 .text {
+#u2944 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u2939_text {
+#u2944_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u2940_div {
+#u2945_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:150px;
+  width:185px;
   height:150px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
@@ -108,26 +108,26 @@
   font-weight:400;
   font-style:normal;
 }
-#u2940 {
+#u2945 {
   border-width:0px;
   position:absolute;
   left:438px;
   top:252px;
-  width:150px;
+  width:185px;
   height:150px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
 }
-#u2940 .text {
+#u2945 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u2940_text {
+#u2945_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
