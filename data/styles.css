@@ -202,4 +202,8 @@
 }
 .table_cell {
 }
+.label2 {
+  font-size:14px;
+  text-align:left;
+}
 textarea, select, input, button { outline: none; }
