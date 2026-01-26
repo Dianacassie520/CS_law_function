@@ -206,4 +206,9 @@
   font-size:14px;
   text-align:left;
 }
+._默认样式2 {
+}
+.checkbox {
+  text-align:left;
+}
 textarea, select, input, button { outline: none; }
