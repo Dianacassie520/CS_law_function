@@ -365,7 +365,7 @@
   left:0px;
   top:0px;
   width:796px;
-  height:114px;
+  height:113px;
   background-image:none;
   border:none;
   border-radius:0px;
@@ -464,7 +464,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:107px;
+  width:128px;
   height:40px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -481,9 +481,9 @@
 #u30 {
   border-width:0px;
   position:absolute;
-  left:57px;
+  left:36px;
   top:73px;
-  width:107px;
+  width:128px;
   height:40px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
@@ -667,8 +667,8 @@
 #u34 {
   border-width:0px;
   position:absolute;
-  left:103px;
-  top:81px;
+  left:29px;
+  top:77px;
   width:14px;
   height:33px;
   display:flex;
